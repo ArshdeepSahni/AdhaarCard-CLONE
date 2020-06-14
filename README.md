@@ -1,16 +1,7 @@
-# adhaarcard
-
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# AdhaarCard - CLONE
+## `CLONE` of `Adhaar Card` with `Front` & `Back` side both in one Screen.
+|`Front`|`APP SCREEN`|`Back`|
+|---|---|---|
+|![image](https://user-images.githubusercontent.com/56549294/84591427-e0808f00-ae5b-11ea-9b16-d00ebfd9c6b9.png)|![image](https://user-images.githubusercontent.com/56549294/84591344-2a1caa00-ae5b-11ea-87fe-f592d231daa1.png)|![image](https://user-images.githubusercontent.com/56549294/84591471-54bb3280-ae5c-11ea-92aa-4b014a539709.png)|
+>>>>>>>>>>>>>>>>>>>>>> `Made With`
+>>>>>>>>>>>>>>>>>>>>>>>>❤️
